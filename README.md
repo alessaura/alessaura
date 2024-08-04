@@ -23,11 +23,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alessaura&hide_progress=true)](https://github.com/Alessaura/github-readme-stats)
 
-UI UX Designer na Empresa Cashin.
+
 
 Estudante de Desenvolvimento de Software Multiplataforma pela FATEC - Cotia. 
 
 
-- 🔭 UI UX Designer na empresa Cashin;
-- 🌱 Estou estudando JAVA e Node JS;
-- 🤔 Aceito pitacos para mexer com Swing no Java rsrs ...
+- 🔭 Estágiaria em TI na empresa Flip.net
